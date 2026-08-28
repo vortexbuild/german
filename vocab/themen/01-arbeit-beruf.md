@@ -1,7 +1,7 @@
 # 01 — Arbeit & Beruf
 
-~80 Wörter. Markiere, was du nicht sofort weißt → in `vocab.csv` (Tag `01`).
-Lies jeden Beispielsatz laut.
+67 Wörter. `python3 scripts/import_unit.py 01` übernimmt sie nach `vocab.csv`.
+Diese Datei ist zum Lesen — lies jeden Beispielsatz laut. Ablauf: siehe `VOCAB.md`.
 
 ## Nomen
 

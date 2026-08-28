@@ -19,18 +19,22 @@ Start here: [`de/grammatik/README.md`](de/grammatik/README.md) · [`en/grammar/R
 
 | Path | Contents |
 |------|----------|
-| `vocab/vocab.csv` | Vocabulary: `deutsch,englisch,tags,hinzugefuegt` |
-| `journal/` | Writing practice (German). Copy `_template.md` to `YYYY-MM-DD.md` |
-| `scripts/quiz.py` | Flashcard quiz over `vocab.csv` |
 | `PLAN.md` | B1→B2 grammar checklist — the sequence to work through (no schedule) |
-| `VOCAB.md` | B1→B2 vocabulary checklist — 20 thematic units in `vocab/themen/` |
+| `VOCAB.md` | B1→B2 vocabulary checklist — 20 thematic units + the daily loop |
 | `ROADMAP.md` | CEFR levels A1–C1 and what each requires |
+| `vocab/themen/` | The 20 thematic word lists (read these) |
+| `vocab/vocab.csv` | Generated word store with progress: `deutsch,englisch,tags,status,streak,hinzugefuegt` |
+| `scripts/import_unit.py` | `import_unit.py NN` → pulls unit NN's words into `vocab.csv` |
+| `scripts/quiz.py` | Stateful flashcard quiz; `--tag NN`, `--status`, `--reverse`, `--all` |
+| `journal/` | Writing practice (German). Copy `_template.md` to `YYYY-MM-DD.md` |
 
 ## How to use it
 
 Read `grammar/` top to bottom in the given order (in whichever language tree you want).
 Each file stands alone: explanation → table → examples. Use `reference/` for lookups.
 Add new words to `vocab/vocab.csv`.
+
+Vocabulary: `VOCAB.md` has the loop. Grammar: `PLAN.md` has the topic order.
 
 Your error log — `de/grammatik/fehler.md` (or the `en/` copy) — is the highest-value file.
 Keep it in **one** language only; don't maintain both.

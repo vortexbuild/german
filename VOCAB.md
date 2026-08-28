@@ -8,13 +8,17 @@ Finite and tickable, like `PLAN.md`.
 
 ## Per unit — one unit of work
 
-1. Read the list. For each word: do you know it cold? Mark the ones you don't.
-2. Read every example sentence aloud.
-3. Copy the words you didn't know into `vocab/vocab.csv` (tag with the unit number).
-4. Run `python3 scripts/quiz.py --tag <unit>` until you get them all.
-5. Tick the unit below.
+1. `python3 scripts/import_unit.py NN` — pulls every word of unit NN into `vocab.csv`
+   (status `neu`, tagged `NN`). The `.md` file itself stays untouched — you read it.
+2. Read `vocab/themen/NN-*.md` — the words + example sentences, aloud.
+3. In `vocab/vocab.csv`, for any word you already know cold, change its `status` to
+   `bekannt` (it will never be quizzed).
+4. `python3 scripts/quiz.py --tag NN` — repeat over several sittings. Each word:
+   `neu → lernen → gelernt` after 3 correct in a row; a wrong answer resets its streak.
+5. `python3 scripts/quiz.py --tag NN --status` — when it shows `✓` (nothing left in
+   `neu`/`lernen`), tick the unit below.
 
-No schedule. One unit whenever you sit down.
+No schedule. One unit whenever you sit down. `--status` (no `--tag`) shows all units.
 
 ## Units
 
@@ -51,9 +55,11 @@ input continues after that — but as maintenance, not as a task with an end.
 20 thematische Einheiten in `vocab/themen/`, je ~70–90 Wörter mit Beispielsatz.
 Endlich und abhakbar, wie `PLAN.md`.
 
-**Pro Einheit:** (1) Liste lesen, unbekannte Wörter markieren. (2) Alle Beispielsätze
-laut lesen. (3) Unbekannte Wörter in `vocab/vocab.csv` übertragen (mit Einheitsnummer
-taggen). (4) `python3 scripts/quiz.py --tag <Nummer>` bis alles sitzt. (5) Einheit
-oben abhaken.
+**Pro Einheit:** (1) `python3 scripts/import_unit.py NN` — übernimmt alle Wörter der
+Einheit nach `vocab.csv` (Status `neu`). (2) `vocab/themen/NN-*.md` lesen, Beispielsätze
+laut. (3) In `vocab.csv` bei Wörtern, die du schon kannst, `status` auf `bekannt`
+setzen. (4) `python3 scripts/quiz.py --tag NN` über mehrere Sitzungen —
+`neu → lernen → gelernt` nach 3× richtig in Folge. (5) Wenn
+`python3 scripts/quiz.py --tag NN --status` ein `✓` zeigt: Einheit oben abhaken.
 
 Kein Zeitplan. Eine Einheit, wenn du dich hinsetzt.
