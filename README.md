@@ -23,6 +23,7 @@ Start here: [`de/grammatik/README.md`](de/grammatik/README.md) · [`en/grammar/R
 | `journal/` | Writing practice (German). Copy `_template.md` to `YYYY-MM-DD.md` |
 | `scripts/quiz.py` | Flashcard quiz over `vocab.csv` |
 | `PLAN.md` | B1→B2 grammar checklist — the sequence to work through (no schedule) |
+| `VOCAB.md` | B1→B2 vocabulary checklist — 20 thematic units in `vocab/themen/` |
 | `ROADMAP.md` | CEFR levels A1–C1 and what each requires |
 
 ## How to use it
