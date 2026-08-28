@@ -5,11 +5,16 @@ Statt alles selbst zu schreiben: bewährte Erklärungen mit Beispielen und koste
 Lösungsschlüssel sind Lingolia Plus / kostenpflichtig).
 
 > **Wichtig:** Lingolia zeigt dieselbe Seite je nach Anzeigesprache **unterschiedlich**.
-> Die `/en/grammar/…`-Seiten sind für englischsprachige Lernende geschrieben — mehr
-> Erklärung, Sonderfälle einzeln aufgeführt. Die `/de/grammatik/…`-Seiten sind knapper
-> und tabellenlastiger (gut zum Nachschlagen und als Lesetraining). Die Links unten
-> sind alle `/en/`. Zum Lernen einer Regel: Anzeigesprache **Englisch**; zum
-> Wiederholen: Deutsch.
+> - `/en/grammar/…` — mehr erklärender Text auf Englisch. Gut beim **ersten Kontakt**
+>   mit einer neuen Regel. Aber: die Beispielsätze sind gekürzt und vereinfacht, jede
+>   Zeile hat eine englische Übersetzung daneben (Ablenkung), und es gibt teils
+>   Übersetzungsfehler.
+> - `/de/grammatik/…` — knapperer Text, aber **mehr und natürlichere Beispielsätze**,
+>   ohne Übersetzungsrauschen. Besser für die Beispiele und als Lesetraining.
+>
+> **Empfehlung:** Regel neu lernen → `/en/`. Beispiele und Wiederholung → immer `/de/`.
+> Die Links unten sind `/en/`; die `/de/`-Variante hat oft einen anderen Pfad
+> (z. B. `/de/grammatik/nomen/deklination` statt `/en/grammar/nouns-and-articles/declension`).
 
 ## Übersichtsseiten
 - Grammatik-Start: https://deutsch.lingolia.com/en/grammar
