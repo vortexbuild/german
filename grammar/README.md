@@ -7,7 +7,7 @@ Beispiele → häufige Fehler**. `[ ]` = noch nicht geschrieben, `[x]` = fertig.
 - [x] `cases.md` — Nominativ, Akkusativ, Dativ, Genitiv: Funktion jedes Kasus, Artikeltabelle
 - [x] `articles-and-gender.md` — der/die/das, Pluralformen, Genusregeln und -muster
 - [ ] `verbs-present.md` — regelmäßig, mit Vokalwechsel, sein/haben/werden, trennbare Verben
-- [ ] `word-order.md` — Verb-Zweit-Regel (V2), TeKaMoLo, Stellung von *nicht*, Nebensätze
+- [x] `word-order.md` — Verb-Zweit-Regel (V2), TeKaMoLo, Stellung von *nicht*, Nebensätze
 
 ## Der B1→B2-Kern (hier liegen die echten Fortschritte)
 - [x] `adjective-endings.md` — die 3 Tabellen + Entscheidungsverfahren + 40 Übungssätze
