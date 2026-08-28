@@ -1,0 +1,6 @@
+__pycache__/
+.DS_Store
+
+# Obsidian workspace state (keep the folder, ignore local UI state)
+.obsidian/workspace*.json
+.obsidian/cache
