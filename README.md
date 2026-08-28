@@ -20,7 +20,7 @@ Start here: [`de/grammatik/README.md`](de/grammatik/README.md) · [`en/grammar/R
 | Path | Contents |
 |------|----------|
 | `PLAN.md` | B1→B2 grammar checklist — the sequence to work through (no schedule) |
-| `VOCAB.md` | B1→B2 vocabulary checklist — 20 thematic units + the daily loop |
+| `VOCAB.md` | B1→B2 vocabulary checklist — 20 thematic units + the per-unit loop |
 | `ROADMAP.md` | CEFR levels A1–C1 and what each requires |
 | `vocab/themen/` | The 20 thematic word lists (read these) |
 | `vocab/vocab.csv` | Generated word store with progress: `deutsch,englisch,tags,status,streak,richtig,hinzugefuegt` |
