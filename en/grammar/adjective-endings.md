@@ -1,34 +1,36 @@
-# Adjektivendungen (adjective endings)
+# Adjective endings (Adjektivendungen)
 
-Endungen bekommen nur **attributive** Adjektive (vor einem Nomen: *ein **guter** Wein*).
-Prädikative Adjektive ändern sich nie: *Der Wein ist **gut**.*
+> 🇩🇪 Deutsch: [`../../de/grammar/adjective-endings.md`](../../de/grammar/adjective-endings.md)
 
-Die Endung hängt von drei Dingen ab:
-1. **Genus + Kasus** des Nomens
-2. ob ein **der-Wort**, ein **ein-Wort** oder **nichts** davorsteht
-3. ob dieses Wort den Kasus schon zeigt ("eine starke Endung hat")
+Only **attributive** adjectives take endings (before a noun: *ein **guter** Wein*).
+Predicative adjectives never change: *Der Wein ist **gut**.*
 
-## Der Grundgedanke
+The ending depends on three things:
+1. the **gender + case** of the noun
+2. whether a **der-word**, an **ein-word**, or **nothing** comes before it
+3. whether that word already shows the case ("has a strong ending")
 
-Die Kasus-/Genus-Information muss in der Nominalphrase (noun phrase) **einmal** erscheinen.
-- Zeigt der Artikel sie schon → das Adjektiv bekommt die **schwache** Endung (`-e` oder `-en`).
-- Fehlt der Artikel oder ist er mehrdeutig (`ein`, `mein` ohne Endung) → das Adjektiv muss
-  sie zeigen → **starke** Endung (wie das der-Wort: `-er`, `-es`, `-e`, `-en`…).
+## The core idea
+
+The case/gender information must appear **once** in the noun phrase.
+- If the article already shows it → the adjective takes the **weak** ending (`-e` or `-en`).
+- If the article is missing or ambiguous (`ein`, `mein` with no ending) → the adjective
+  must show it → **strong** ending (like the der-word: `-er`, `-es`, `-e`, `-en`…).
 
 ---
 
-## Tabelle 1 — nach **der-Wörtern** (der, die, das, dieser, jeder, welcher, alle, manche, solche)
+## Table 1 — after **der-words** (der, die, das, dieser, jeder, welcher, alle, manche, solche)
 
-| | maskulin | feminin | neutrum | Plural |
+| | masculine | feminine | neuter | plural |
 |-----|------|-----|------|--------|
 | Nom | -e   | -e  | -e   | -en |
 | Akk | -en  | -e  | -e   | -en |
 | Dat | -en  | -en | -en  | -en |
 | Gen | -en  | -en | -en  | -en |
 
-Nur 5 Felder sind `-e` (der Block oben links); **alles andere ist `-en`**.
+Only 5 cells are `-e` (the top-left block); **everything else is `-en`**.
 
-Beispiele:
+Examples:
 - der **alte** Mann / den **alten** Mann / dem **alten** Mann
 - die **junge** Frau / der **jungen** Frau
 - das **kleine** Kind / dem **kleinen** Kind
@@ -36,43 +38,43 @@ Beispiele:
 
 ---
 
-## Tabelle 2 — nach **ein-Wörtern** (ein, kein, mein, dein, sein, ihr, unser, euer)
+## Table 2 — after **ein-words** (ein, kein, mein, dein, sein, ihr, unser, euer)
 
-Wie Tabelle 1, **außer** in den drei Feldern, in denen `ein` *keine* Endung hat — dort
-bekommt das Adjektiv die starke Endung:
+Like Table 1, **except** in the three cells where `ein` has *no* ending — there the
+adjective takes the strong ending:
 
-| | maskulin | feminin | neutrum | Plural |
+| | masculine | feminine | neuter | plural |
 |-----|------|-----|------|--------|
 | Nom | **-er** | -e | **-es** | -en |
 | Akk | -en  | -e  | **-es** | -en |
 | Dat | -en  | -en | -en  | -en |
 | Gen | -en  | -en | -en  | -en |
 
-Beispiele:
-- ein **guter** Freund (Nom mask — `ein` hat keine Endung → `-er`)
-- einen **guten** Freund (Akk mask — `einen` zeigt den Kasus → `-en`)
-- ein **kleines** Haus (Nom/Akk neutr → `-es`)
+Examples:
+- ein **guter** Freund (Nom masc — `ein` has no ending → `-er`)
+- einen **guten** Freund (Akk masc — `einen` shows the case → `-en`)
+- ein **kleines** Haus (Nom/Akk neuter → `-es`)
 - eine **nette** Kollegin
 - meine **alten** Schuhe / mit meinen **alten** Schuhen
 
-> Plural: `kein`/`meine` usw. haben Endungen, also verhält sich der Plural wie Tabelle 1
-> (alles `-en`). Aber **blanker Plural ohne Artikel** → Tabelle 3.
+> Plural: `kein`/`meine` etc. have endings, so the plural behaves like Table 1
+> (all `-en`). But **bare plural with no article** → Table 3.
 
 ---
 
-## Tabelle 3 — **ohne Artikel** (stark / "das Adjektiv wird zum Artikel")
+## Table 3 — **no article** (strong / "the adjective becomes the article")
 
-Das Adjektiv trägt die volle der-Wort-Endung. Ausnahme: **Gen mask/neutr → `-en`**
-(weil das `-s` am Nomen den Kasus schon markiert).
+The adjective carries the full der-word ending. Exception: **Gen masc/neut → `-en`**
+(because the `-s` on the noun already marks the case).
 
-| | maskulin | feminin | neutrum | Plural |
+| | masculine | feminine | neuter | plural |
 |-----|------|-----|------|--------|
 | Nom | -er  | -e  | -es  | -e |
 | Akk | -en  | -e  | -es  | -e |
 | Dat | -em  | -er | -em  | -en |
 | Gen | -en  | -er | -en  | -er |
 
-Beispiele:
+Examples:
 - **guter** Wein / **kaltes** Wasser / **frische** Milch
 - mit **großem** Interesse / bei **schönem** Wetter
 - **deutsche** Autos / **nette** Leute
@@ -80,32 +82,31 @@ Beispiele:
 
 ---
 
-## Entscheidungsverfahren (so lange üben, bis es automatisch geht)
+## Decision procedure (drill it until it is automatic)
 
-1. Welchen **Kasus** verlangt das Nomen hier? (Verb / Präposition prüfen)
-2. Welches **Genus / welchen Numerus** hat das Nomen?
-3. Steht ein **der-Wort**, ein **ein-Wort ohne Endung** oder **nichts** davor?
-4. Die passende Tabelle wählen → Endung ablesen.
-
----
-
-## Häufige Fehler
-- Prädikatives Adjektiv bekommt eine Endung: ✗ *Das Auto ist neues.* → ✓ *ist neu.*
-- Vergessen, dass das Nomen im Dativ Plural auch `-n` bekommt:
-  *mit den alten Kinder**n***.
-- Nach `viele`, `wenige`, `einige`, `mehrere`, `andere` → wie **ohne Artikel** im Plural
-  (`-e` Nom/Akk): *viele **gute** Ideen*.
-- Nach `etwas` / `nichts` + substantiviertem Adjektiv → `-es`: *etwas **Neues***, *nichts **Wichtiges***.
-- `hoch` → `hoh-` vor der Endung: *ein **hoher** Berg*. `teuer` → `teur-`: *ein **teures** Auto*.
+1. Which **case** does the noun need here? (check the verb / preposition)
+2. Which **gender / number** is the noun?
+3. Is there a **der-word**, an **ein-word with no ending**, or **nothing** before it?
+4. Pick the matching table → read off the ending.
 
 ---
 
-# Übungssätze
+## Common mistakes
+- Predicative adjective takes an ending: ✗ *Das Auto ist neues.* → ✓ *ist neu.*
+- Forgetting the noun also takes `-n` in the dative plural: *mit den alten Kinder**n***.
+- After `viele`, `wenige`, `einige`, `mehrere`, `andere` → like **no article** in the
+  plural (`-e` Nom/Akk): *viele **gute** Ideen*.
+- After `etwas` / `nichts` + nominalised adjective → `-es`: *etwas **Neues***, *nichts **Wichtiges***.
+- `hoch` → `hoh-` before the ending: *ein **hoher** Berg*. `teuer` → `teur-`: *ein **teures** Auto*.
 
-Ergänze die Endung. Lösungen ganz unten — erst abdecken.
-Sprich jeden vollständigen Satz laut aus.
+---
 
-## Teil A — der-Wörter
+# Practice sentences
+
+Fill in the ending. Answers at the very bottom — cover them first.
+Say every full sentence out loud.
+
+## Part A — der-words
 1. Der ___ (neu) Kollege sitzt neben mir.
 2. Ich kenne den ___ (klein) Bruder von Anna.
 3. Wir wohnen in dem ___ (alt) Haus an der Ecke.
@@ -117,7 +118,7 @@ Sprich jeden vollständigen Satz laut aus.
 9. Diese ___ (lang) Diskussion bringt nichts.
 10. Nach dem ___ (lang) Tag bin ich müde.
 
-## Teil B — ein-Wörter
+## Part B — ein-words
 11. Das ist ein ___ (gut) Vorschlag.
 12. Ich suche einen ___ (billig) Flug nach Berlin.
 13. Sie hat ein ___ (schön) Kleid gekauft.
@@ -129,7 +130,7 @@ Sprich jeden vollständigen Satz laut aus.
 19. Das ist die Meinung eines ___ (unabhängig) Experten.
 20. Ihr ___ (neu) Projekt ist sehr ehrgeizig.
 
-## Teil C — ohne Artikel
+## Part C — no article
 21. ___ (frisch) Brot riecht wunderbar.
 22. Er trinkt seinen Kaffee immer mit ___ (heiß) Milch.
 23. ___ (deutsch) Autos sind im Ausland beliebt.
@@ -141,7 +142,7 @@ Sprich jeden vollständigen Satz laut aus.
 29. Nach ___ (lang) Zeit habe ich sie wiedergesehen.
 30. Das ist ein Zeichen ___ (echt) Freundschaft. (Gen fem)
 
-## Teil D — gemischt / knifflig
+## Part D — mixed / tricky
 31. Ich möchte etwas ___ (warm) essen.
 32. Es gibt nichts ___ (neu) zu berichten.
 33. Der ___ (hoch) Turm ist von hier zu sehen.
@@ -155,7 +156,7 @@ Sprich jeden vollständigen Satz laut aus.
 
 ---
 
-## Lösungen
+## Answers
 
 A: 1 neue · 2 kleinen · 3 alten · 4 rote · 5 netten · 6 deutsche · 7 wichtigen · 8 schlechten · 9 lange · 10 langen
 B: 11 guter · 12 billigen · 13 schönes · 14 alten · 15 erfahrenen · 16 teures · 17 weitere · 18 kleinen · 19 unabhängigen · 20 neues

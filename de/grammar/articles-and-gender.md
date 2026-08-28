@@ -1,5 +1,7 @@
 # Artikel und Genus
 
+> 🇬🇧 English: [`../../en/grammar/articles-and-gender.md`](../../en/grammar/articles-and-gender.md)
+
 Jedes deutsche Nomen hat ein Genus (grammatical gender): **maskulin** (der),
 **feminin** (die) oder **neutrum** (das). Das Genus gehört zum *Wort*, nicht zur Sache —
 lerne jedes Nomen **mit seinem Artikel**. Im Plural haben alle Genera den Artikel **die**.

@@ -1,5 +1,7 @@
 # Abkürzungen im geschriebenen Deutsch (common abbreviations)
 
+> 🇬🇧 English: [`../../en/reference/abkuerzungen.md`](../../en/reference/abkuerzungen.md)
+
 Diese tauchen ständig in Texten, Lehrbüchern und auf Lingolia auf. In der gesprochenen
 Sprache spricht man sie meist voll aus.
 

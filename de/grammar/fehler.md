@@ -1,5 +1,8 @@
 # Fehlerheft (error log)
 
+> 🇬🇧 English: [`../../en/grammar/fehler.md`](../../en/grammar/fehler.md)
+> Trag deine Fehler nur **einmal** ein (egal in welchem Ordner) — nicht doppelt pflegen.
+
 Die wichtigste eigene Datei im Projekt. Immer wenn eine Korrektur kommt (aus dem
 Tagebuch, aus dem Unterricht, aus einem Gespräch), hier eintragen. Regelmäßig von oben
 nach unten wiederholen — wiederkehrende Fehler markieren.

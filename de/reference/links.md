@@ -1,5 +1,7 @@
 # Externe Ressourcen (curated links)
 
+> 🇬🇧 English: [`../../en/reference/links.md`](../../en/reference/links.md)
+
 Siehe auch: `abkuerzungen.md` — häufige Abkürzungen (z. B., bzw., d. h. …).
 
 

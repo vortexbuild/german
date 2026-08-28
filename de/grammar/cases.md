@@ -1,5 +1,7 @@
 # Die vier Fälle (Kasus)
 
+> 🇬🇧 English: [`../../en/grammar/cases.md`](../../en/grammar/cases.md)
+
 Deutsch zeigt die Rolle eines Nomens im Satz durch den Kasus an. Das ändert vor allem
 den Artikel (und manchmal das Nomen selbst).
 

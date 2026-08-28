@@ -1,5 +1,7 @@
 # Grammatik — Lehrplan (syllabus)
 
+> 🇬🇧 English: [`../../en/grammar/README.md`](../../en/grammar/README.md)
+
 Arbeite die Themen von oben nach unten durch. Für die meisten genügt der **Lingolia-Link**
 (lesen + Beispiele). Zu einigen Themen gibt es hier eine eigene Notiz (`.md`) mit
 Zusammenfassung, Tabelle und Übungen — dann steht 📄 davor.

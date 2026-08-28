@@ -1,5 +1,7 @@
 # Wortstellung (word order)
 
+> 🇬🇧 English: [`../../en/grammar/word-order.md`](../../en/grammar/word-order.md)
+
 Die deutsche Wortstellung ist flexibler als die englische, aber die **Position des Verbs**
 ist streng geregelt. Das ist der wichtigste Punkt.
 
