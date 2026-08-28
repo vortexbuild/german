@@ -49,7 +49,22 @@ Drei Verwendungen:
 - *Bitte schicken Sie das Formular per Post bzw. per E-Mail.*
 - *der Ehepartner bzw. die Ehepartnerin* → the spouse (m or f)
 
-### Hinweise
+### Wichtig: *bzw.* ist weder „or" noch „and"
+Englisch hat kein einzelnes Wort dafür. Je nach Formulierung wird *bzw.* zu
+**or**, **and**, **respectively** oder gar nicht übersetzt (Satz umgebaut).
+*bzw.* bedeutet eigentlich „entsprechend / jeweils das Passende für das andere Element".
+
+Dieselbe deutsche Aussage, zwei englische Wege:
+- *Anna und Ben fahren nach Berlin bzw. München.*
+  → „Anna and Ben go to Berlin **and** Munich respectively." **oder**
+    „Anna goes to Berlin, Ben to Munich." (kein Wort, umgebaut)
+- *Die Fenster sind 1 m bzw. 1,5 m breit.* → „…1 m **and** 1.5 m wide" / „…**or**…"
+- *per Post bzw. E-Mail* → „by post **or** email"
+
+Merke: nicht Wort für Wort übersetzen. Lies *bzw.* als „…und jeweils das Passende
+für das andere" und wähle dann das englische Wort, das den Satz natürlich macht.
+
+### Weitere Hinweise
 - Komma vor *bzw.*: meist **weggelassen** (Bedeutung 2 und 3), oft gesetzt bei Bedeutung 1.
 - Register: neutral bis formell. Gut in Aufsätzen, E-Mails, Behördentexten.
 - Umgangssprachlich sagt man einfach *oder* oder die volle Form *beziehungsweise*.
