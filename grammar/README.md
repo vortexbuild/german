@@ -5,6 +5,7 @@ Arbeite die Themen von oben nach unten durch. Für die meisten genügt der **Lin
 Zusammenfassung, Tabelle und Übungen — dann steht 📄 davor.
 
 Vollständige Linkliste inkl. anderer Quellen: `../reference/links.md`
+Dein eigenes Fehlerheft (error log): `fehler.md` — die wichtigste Datei, täglich pflegen.
 
 ## Grundlagen (B1-Wiederholung — schnell prüfen)
 | Thema | Ressource |
