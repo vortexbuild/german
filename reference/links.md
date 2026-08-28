@@ -4,6 +4,13 @@ Statt alles selbst zu schreiben: bewährte Erklärungen mit Beispielen und koste
 Übungen. **Lingolia** ist die Hauptquelle (kostenlos lesbar; die Extra-Übungen mit
 Lösungsschlüssel sind Lingolia Plus / kostenpflichtig).
 
+> **Wichtig:** Lingolia zeigt dieselbe Seite je nach Anzeigesprache **unterschiedlich**.
+> Die `/en/grammar/…`-Seiten sind für englischsprachige Lernende geschrieben — mehr
+> Erklärung, Sonderfälle einzeln aufgeführt. Die `/de/grammatik/…`-Seiten sind knapper
+> und tabellenlastiger (gut zum Nachschlagen und als Lesetraining). Die Links unten
+> sind alle `/en/`. Zum Lernen einer Regel: Anzeigesprache **Englisch**; zum
+> Wiederholen: Deutsch.
+
 ## Übersichtsseiten
 - Grammatik-Start: https://deutsch.lingolia.com/en/grammar
 - Verb-Konjugator: https://deutsch.lingolia.com/en/grammar/conjugator
