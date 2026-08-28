@@ -36,16 +36,15 @@ Sprache spricht man sie meist voll aus.
 Sehr häufig in der Schriftsprache, viel öfter als die englischen Entsprechungen.
 Drei Verwendungen:
 
-| # | *bzw.* bedeutet | englische Wiedergabe | Beispiel |
-|---|-----------------|----------------------|----------|
-| 1 | genauer gesagt (Umformulierung, Präzisierung) | „or rather", „or more precisely" | *…ihrer Rolle im Satz **bzw.** abhängig von Verben…* |
-| 2 | jeweils (zwei Listen einander zuordnen) | „…and/or Y **respectively**", oder Satz umbauen | *Anna und Ben → Berlin **bzw.** München* |
-| 3 | oder (Alternative) | „or", „and/or" | *per Post **bzw.** E-Mail* |
+| # | Bedeutung | am nächsten im Englischen | Beispiel |
+|---|-----------|--------------------------|----------|
+| 1 | Präzisierung — die vorige Aussage genauer fassen | *or rather* · *or more precisely* | *…ihrer Rolle im Satz **bzw.** abhängig von Verben…* |
+| 2 | Zuordnung — zwei Listen Element für Element paaren | *X … and Y respectively* (manchmal nur *and* / *or*) | *Anna und Ben → Berlin **bzw.** München* |
+| 3 | Alternative — eine weitere Möglichkeit nennen | *or* · *and/or* | *per Post **bzw.** E-Mail* |
 
-Es sind keine drei getrennten „Positionen", sondern **ein** Konnektor mit der Bedeutung
-„das jeweils passende Element für das andere". Die drei Übersetzungen ergeben sich nur
-aus der Satzform. Bei #2 ist **„respectively"** der feste Teil — *and* vs. *or* wählst
-du weiter nach dem englischen Satz.
+Das sind keine drei getrennten Wörter, sondern **ein** Konnektor: „das jeweils passende
+Element für das andere". Die englische Spalte zeigt nur, *wo es meistens landet* — wähl
+die Formulierung, die deinen Satz natürlich macht, und übersetze *bzw.* nicht 1:1.
 
 
 ### 1. „genauer gesagt / vielmehr" (or rather) — die vorherige Aussage einschränken

@@ -36,16 +36,15 @@ usually said in full.
 Very common in written German, far more so than its English equivalents.
 Three uses:
 
-| # | *bzw.* means | English rendering | example |
-|---|-----------------|----------------------|----------|
-| 1 | more precisely (restatement, refining) | "or rather", "or more precisely" | *…ihrer Rolle im Satz **bzw.** abhängig von Verben…* |
-| 2 | respectively (mapping two lists onto each other) | "…and/or Y **respectively**", or restructure | *Anna und Ben → Berlin **bzw.** München* |
-| 3 | or (alternative) | "or", "and/or" | *per Post **bzw.** E-Mail* |
+| # | Sense | Closest English | Example |
+|---|-------|-----------------|---------|
+| 1 | restatement — refining what you just said | *or rather* · *or more precisely* | *…ihrer Rolle im Satz **bzw.** abhängig von Verben…* |
+| 2 | distributive — pairing two lists item by item | *X … and Y respectively* (sometimes just *and* / *or*) | *Anna und Ben → Berlin **bzw.** München* |
+| 3 | alternative — offering another option | *or* · *and/or* | *per Post **bzw.** E-Mail* |
 
-These are not three separate "positions" but **one** connector meaning "the
-correspondingly fitting element for the other one". The three translations just fall out
-of the sentence shape. In #2, **"respectively"** is the fixed part — you still choose
-*and* vs. *or* by what the English sentence needs.
+These are not three separate words but **one** connector: "the correspondingly fitting
+element for the other one." The English column is only *where it usually lands* — pick
+the wording that makes your sentence natural, and don't translate *bzw.* one-to-one.
 
 ### 1. "more precisely / rather" (or rather) — narrowing the previous statement
 - *Ich komme morgen, bzw. eigentlich erst übermittag.*
