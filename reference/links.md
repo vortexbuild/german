@@ -1,5 +1,8 @@
 # Externe Ressourcen (curated links)
 
+Siehe auch: `abkuerzungen.md` — häufige Abkürzungen (z. B., bzw., d. h. …).
+
+
 Statt alles selbst zu schreiben: bewährte Erklärungen mit Beispielen und kostenlosen
 Übungen. **Lingolia** ist die Hauptquelle (kostenlos lesbar; die Extra-Übungen mit
 Lösungsschlüssel sind Lingolia Plus / kostenpflichtig).
