@@ -1,33 +1,36 @@
-# The four cases
+# Die vier Fälle (Kasus)
 
-German marks a noun's role in the sentence by changing the article (and sometimes the noun).
+Deutsch zeigt die Rolle eines Nomens im Satz durch den Kasus an. Das ändert vor allem
+den Artikel (und manchmal das Nomen selbst).
 
-## Nominativ — the subject
-Who/what is doing the action. Also after `sein`, `werden`, `bleiben`.
+## Nominativ — das Subjekt
+Wer oder was die Handlung ausführt. Auch nach `sein`, `werden`, `bleiben`.
 - **Der Mann** liest. — The man reads.
 
-## Akkusativ — the direct object
-Who/what is directly affected. Also after: durch, für, gegen, ohne, um.
+## Akkusativ — das direkte Objekt (direct object)
+Wen oder was die Handlung direkt betrifft. Auch nach: durch, für, gegen, ohne, um.
 - Ich sehe **den Mann**. — I see the man.
-- (only masculine changes: der → den)
+- (nur maskulin ändert sich: der → den)
 
-## Dativ — the indirect object
-To/for whom. Also after: aus, bei, mit, nach, seit, von, zu; and gefallen, helfen, danken, gehören.
+## Dativ — das indirekte Objekt (indirect object)
+Wem etwas gegeben/gesagt wird. Auch nach: aus, bei, mit, nach, seit, von, zu;
+und nach gefallen, helfen, danken, gehören.
 - Ich gebe **dem Mann** das Buch. — I give the book to the man.
 
-## Genitiv — possession
-Whose. Also after: wegen, während, trotz, (an)statt.
+## Genitiv — der Besitz (possession)
+Wessen. Auch nach: wegen, während, trotz, (an)statt.
 - Das Auto **des Mannes** — the man's car.
 
-## Article table
+## Artikeltabelle
 
-| | masc | fem | neut | plural |
+| | maskulin | feminin | neutrum | Plural |
 |-----|------|-----|------|--------|
 | Nom | der  | die | das  | die |
 | Akk | den  | die | das  | die |
-| Dat | dem  | der | dem  | den (+n on noun) |
+| Dat | dem  | der | dem  | den (+n am Nomen) |
 | Gen | des (+s) | der | des (+s) | der |
 
-## Common mistakes
-- Forgetting `mit`, `nach`, `bei`, `von`, `zu` always take Dativ.
-- Two-way prepositions (in, an, auf, unter, über, vor, hinter, neben, zwischen): Akkusativ for movement *into* a place, Dativ for location.
+## Häufige Fehler
+- Vergessen, dass `mit`, `nach`, `bei`, `von`, `zu` immer den Dativ verlangen.
+- Wechselpräpositionen (two-way prepositions: in, an, auf, unter, über, vor, hinter,
+  neben, zwischen): Akkusativ bei Bewegung *in* einen Ort hinein, Dativ bei einer Position.

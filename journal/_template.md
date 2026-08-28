@@ -1,17 +1,17 @@
-# YYYY-MM-DD
+# JJJJ-MM-TT
 
-## Schreiben (my writing)
-_3–5 sentences in German. Don't look things up mid-sentence — write, then fix._
-
-
-
-## Korrekturen (corrections)
-_What was wrong and why._
+## Schreiben
+_3–5 Sätze auf Deutsch. Nicht mitten im Satz nachschlagen — erst schreiben, dann korrigieren._
 
 
 
-## Neue Wörter (new words → add to vocab.csv)
+## Korrekturen
+_Was war falsch und warum._
+
+
+
+## Neue Wörter (→ in vocab.csv eintragen)
 - 
 
 ## Grammatik-Notiz
-_Anything that tripped me up today._
+_Was mir heute Schwierigkeiten bereitet hat._

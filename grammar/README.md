@@ -1,28 +1,28 @@
-# Grammar — reading order
+# Grammatik — Lesereihenfolge
 
-Work through these top to bottom. Each file: **explanation → table → worked examples →
-common mistakes**. `[ ]` = not written yet, `[x]` = done.
+Arbeite diese Dateien von oben nach unten durch. Jede Datei: **Erklärung → Tabelle →
+Beispiele → häufige Fehler**. `[ ]` = noch nicht geschrieben, `[x]` = fertig.
 
-## Foundations (B1 review — read fast, confirm you're solid)
-- [x] `cases.md` — Nominativ, Akkusativ, Dativ, Genitiv: what each does, article table
-- [x] `articles-and-gender.md` — der/die/das, plural forms, gender patterns & rules
-- [ ] `verbs-present.md` — regular, stem-changing, sein/haben/werden, separable verbs
-- [ ] `word-order.md` — V2 rule, TeKaMoLo, position of nicht, subordinate clauses
+## Grundlagen (B1-Wiederholung — schnell lesen, sicheres Beherrschen prüfen)
+- [x] `cases.md` — Nominativ, Akkusativ, Dativ, Genitiv: Funktion jedes Kasus, Artikeltabelle
+- [x] `articles-and-gender.md` — der/die/das, Pluralformen, Genusregeln und -muster
+- [ ] `verbs-present.md` — regelmäßig, mit Vokalwechsel, sein/haben/werden, trennbare Verben
+- [ ] `word-order.md` — Verb-Zweit-Regel (V2), TeKaMoLo, Stellung von *nicht*, Nebensätze
 
-## The B1→B2 core (where the real gains are)
-- [x] `adjective-endings.md` — the 3 tables + decision procedure + 40 drills
-- [ ] `perfekt-and-prateritum.md` — both past tenses, when each is used, participle rules
-- [ ] `modal-verbs.md` — meanings, present + past, modal + passive, subjective use
-- [ ] `konjunktiv-2.md` — hätte/wäre/würde/könnte…, present vs past, uses
-- [ ] `passiv.md` — Vorgangspassiv vs Zustandspassiv, passive + modal, alternatives
-- [ ] `relative-clauses.md` — relative pronouns, with prepositions, wo-/was-
-- [ ] `subordinate-clauses.md` — dass/weil/wenn/ob/damit…, verb-final, two-part connectors
+## Der B1→B2-Kern (hier liegen die echten Fortschritte)
+- [x] `adjective-endings.md` — die 3 Tabellen + Entscheidungsverfahren + 40 Übungssätze
+- [ ] `perfekt-and-prateritum.md` — beide Vergangenheitsformen, wann welche, Partizipbildung
+- [ ] `modal-verbs.md` — Bedeutungen, Präsens + Vergangenheit, Modalverb + Passiv, subjektiver Gebrauch
+- [ ] `konjunktiv-2.md` — hätte/wäre/würde/könnte…, Gegenwart vs. Vergangenheit, Verwendung
+- [ ] `passiv.md` — Vorgangspassiv vs. Zustandspassiv, Passiv + Modalverb, Alternativen
+- [ ] `relative-clauses.md` — Relativpronomen, mit Präpositionen, wo-/was-
+- [ ] `subordinate-clauses.md` — dass/weil/wenn/ob/damit…, Verb am Ende, zweiteilige Konnektoren
 
-## B2 polish
-- [ ] `konjunktiv-1.md` — reported speech (indirekte Rede)
-- [ ] `participles-as-adjectives.md` — Partizip I / II attributive, extended phrases
-- [ ] `nominalization.md` — verb→noun style, common in formal German
-- [ ] `connectors-and-register.md` — deshalb/trotzdem/dennoch/allerdings, formal vs casual
-- [ ] `particles.md` — doch, mal, ja, halt, eben, schon — what they actually signal
+## B2-Feinschliff
+- [ ] `konjunktiv-1.md` — indirekte Rede (reported speech)
+- [ ] `participles-as-adjectives.md` — Partizip I / II attributiv, erweiterte Partizipialgruppen
+- [ ] `nominalization.md` — Verb→Nomen, nominaler Stil (typisch für formelles Deutsch)
+- [ ] `connectors-and-register.md` — deshalb/trotzdem/dennoch/allerdings, formell vs. umgangssprachlich
+- [ ] `particles.md` — doch, mal, ja, halt, eben, schon — was sie eigentlich signalisieren
 
-See `reference/` for lookup tables (verb lists, prepositions by case, connector lists).
+Nachschlagetabellen (Verblisten, Präpositionen nach Kasus, Konnektorenlisten) findest du in `reference/`.

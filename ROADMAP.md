@@ -1,40 +1,40 @@
-# Roadmap to fluency
+# Weg zur Sprachbeherrschung
 
-Fluency ≈ solid **B2**, comfortable **C1**. Rough path:
+Flüssig ≈ sicheres **B2**, souveränes **C1**. Grober Weg dorthin:
 
-## A1 — survival basics
-- Present tense, `sein`/`haben`, regular + key irregular verbs
-- Articles & gender, nominative + accusative
-- Numbers, time, dates, basic questions
-- ~500 words
+## A1 — Grundlagen zum Überleben
+- Präsens, `sein`/`haben`, regelmäßige + wichtige unregelmäßige Verben
+- Artikel und Genus, Nominativ + Akkusativ
+- Zahlen, Uhrzeit, Datum, einfache Fragen
+- ca. 500 Wörter
 
-## A2 — everyday life
-- Dative case, two-way prepositions
-- Perfekt (past with haben/sein), modal verbs
-- Separable verbs, comparatives
-- ~1000–1500 words
+## A2 — Alltag
+- Dativ, Wechselpräpositionen (two-way prepositions)
+- Perfekt (mit haben/sein), Modalverben
+- trennbare Verben, Komparativ
+- ca. 1000–1500 Wörter
 
-## B1 — independent user
-- Genitive, Präteritum (written past)
-- Subordinate clauses & word order (weil, dass, wenn …)
-- Reflexive verbs, Konjunktiv II (würde + polite forms)
-- Adjective endings (the big one — drill these)
-- ~2500 words
+## B1 — selbstständige Sprachverwendung
+- Genitiv, Präteritum (Schriftsprache)
+- Nebensätze und Wortstellung (weil, dass, wenn …)
+- reflexive Verben, Konjunktiv II (würde + Höflichkeitsformen)
+- Adjektivendungen (das große Thema — intensiv üben)
+- ca. 2500 Wörter
 
-## B2 — fluency threshold
-- Passive voice, Konjunktiv I (reported speech)
-- Relative clauses, extended participial phrases
-- Connectors & register (formal vs casual)
-- Nuance: particles (doch, mal, ja, halt)
-- ~4000+ words
+## B2 — Schwelle zur Flüssigkeit
+- Passiv, Konjunktiv I (indirekte Rede / reported speech)
+- Relativsätze, erweiterte Partizipialkonstruktionen (extended participial phrases)
+- Konnektoren und Register (formell vs. umgangssprachlich)
+- Nuancen: Partikeln (doch, mal, ja, halt)
+- ca. 4000+ Wörter
 
-## C1 — refinement
-- Idiom, collocations, nominalization style
-- Understand fast native speech, dialects, media
-- Write structured argumentative texts
+## C1 — Verfeinerung
+- Redewendungen, feste Wortverbindungen (collocations), nominaler Stil
+- schnelles Muttersprachler-Deutsch, Dialekte, Medien verstehen
+- strukturierte, argumentative Texte schreiben
 
-## Habits that actually move the needle
-- Daily active recall (the quiz script)
-- Comprehensible input every day (podcasts: *Coffee Break German*, *Easy German*)
-- Speak weekly (tutor / language exchange) — output forces the gaps into view
-- Keep an error log; review it
+## Gewohnheiten, die wirklich helfen
+- tägliches aktives Abrufen (active recall) — das Quiz-Skript
+- jeden Tag verständlicher Input (comprehensible input): Podcasts *Coffee Break German*, *Easy German*
+- wöchentlich sprechen (Lehrkraft / Sprachpartner) — Produktion (output) legt die Lücken offen
+- ein Fehlerheft (error log) führen und wiederholen

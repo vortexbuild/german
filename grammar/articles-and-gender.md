@@ -1,150 +1,152 @@
-# Articles and gender
+# Artikel und Genus
 
-Every German noun has one of three genders: **masculine** (der), **feminine** (die),
-**neuter** (das). Gender is a property of the *word*, not the thing — learn each noun
-**with its article**. In the plural, all genders use **die**.
+Jedes deutsche Nomen hat ein Genus (grammatical gender): **maskulin** (der),
+**feminin** (die) oder **neutrum** (das). Das Genus gehört zum *Wort*, nicht zur Sache —
+lerne jedes Nomen **mit seinem Artikel**. Im Plural haben alle Genera den Artikel **die**.
 
 ---
 
-## 1. The article forms
+## 1. Die Artikelformen
 
-### Definite (der/die/das) — "the"
+### Bestimmter Artikel (der/die/das) — "the"
 
-| | masc | fem | neut | plural |
+| | maskulin | feminin | neutrum | Plural |
 |-----|------|-----|------|--------|
 | Nom | der  | die | das  | die |
 | Akk | den  | die | das  | die |
 | Dat | dem  | der | dem  | den |
 | Gen | des  | der | des  | der |
 
-### Indefinite (ein) — "a/an", and kein — "no/not a"
+### Unbestimmter Artikel (ein) — "a/an", und kein — "no / not a"
 
-| | masc | fem | neut | plural (kein only) |
+| | maskulin | feminin | neutrum | Plural (nur kein) |
 |-----|--------|-------|--------|------|
 | Nom | ein    | eine  | ein    | keine |
 | Akk | einen  | eine  | ein    | keine |
 | Dat | einem  | einer | einem  | keinen |
 | Gen | eines  | einer | eines  | keiner |
 
-`ein` has **no plural**; `kein` and the possessives (mein, dein, sein, ihr, unser, euer)
-follow the same pattern and *do* have plural forms.
+`ein` hat **keinen Plural**; `kein` und die Possessivartikel (mein, dein, sein, ihr,
+unser, euer) folgen demselben Muster und haben *sehr wohl* Pluralformen.
 
-### Nouns that change in these cases
-- **Dativ plural**: noun adds **-n** unless the plural already ends in -n or -s.
-  *die Kinder → mit den Kinder**n***; *die Autos → mit den Autos* (no change).
-- **Genitive masc/neut**: noun adds **-s** (one syllable often **-es**).
+### Nomen, die sich in diesen Fällen ändern
+- **Dativ Plural**: das Nomen bekommt **-n**, außer der Plural endet schon auf -n oder -s.
+  *die Kinder → mit den Kinder**n***; *die Autos → mit den Autos* (keine Änderung).
+- **Genitiv maskulin/neutrum**: das Nomen bekommt **-s** (einsilbig oft **-es**).
   *des Auto**s***, *des Mann**es***, *des Kind**es***.
-- **N-nouns** (weak masculine): see §4.
+- **N-Deklination** (schwache Maskulina): siehe §4.
 
 ---
 
-## 2. Gender by meaning (reliable groups)
+## 2. Genus nach Bedeutung (verlässliche Gruppen)
 
-**Masculine (der)**
-- Male people & animals: der Mann, der Bruder, der Hund (generic)
-- Days, months, seasons: der Montag, der Juli, der Sommer
-- Points of the compass, weather: der Norden, der Regen, der Wind, der Schnee
-- Makes of car; alcoholic drinks (except das Bier): der BMW, der Wein, der Wodka
+**Maskulin (der)**
+- männliche Personen und Tiere: der Mann, der Bruder, der Hund (allgemein)
+- Tage, Monate, Jahreszeiten: der Montag, der Juli, der Sommer
+- Himmelsrichtungen, Wetter: der Norden, der Regen, der Wind, der Schnee
+- Automarken; alkoholische Getränke (außer das Bier): der BMW, der Wein, der Wodka
 
-**Feminine (die)**
-- Female people & animals: die Frau, die Schwester, die Katze (generic)
-- Most rivers *inside* Europe: die Donau, die Elbe, die Seine
-- Numerals used as nouns: die Eins, die Million
-- Names of aircraft, motorbikes, ships: die Boeing, die Harley
+**Feminin (die)**
+- weibliche Personen und Tiere: die Frau, die Schwester, die Katze (allgemein)
+- die meisten Flüsse *innerhalb* Europas: die Donau, die Elbe, die Seine
+- substantivierte Zahlen: die Eins, die Million
+- Flugzeuge, Motorräder, Schiffe: die Boeing, die Harley
 
-**Neuter (das)**
-- Young beings: das Kind, das Baby, das Ferkel, das Lamm
-- Infinitives used as nouns: das Essen, das Leben, das Schwimmen
-- Most metals & chemical elements: das Gold, das Eisen, das Wasserstoff
-- Letters, colours, languages as nouns: das A, das Blau, das Deutsch
-- Diminutives in **-chen / -lein**: das Mädchen, das Brötchen (always neuter!)
+**Neutrum (das)**
+- junge Lebewesen: das Kind, das Baby, das Ferkel, das Lamm
+- substantivierte Infinitive: das Essen, das Leben, das Schwimmen
+- die meisten Metalle und chemischen Elemente: das Gold, das Eisen
+- Buchstaben, Farben, Sprachen als Nomen: das A, das Blau, das Deutsch
+- Verkleinerungsformen (diminutives) auf **-chen / -lein**: das Mädchen, das Brötchen (immer neutrum!)
 
 ---
 
-## 3. Gender by ending (very reliable — learn these)
+## 3. Genus nach Endung (sehr verlässlich — auswendig lernen)
 
-**Always der**
-`-er` (agent nouns: der Lehrer, der Computer) ·
+**Immer der**
+`-er` (Personen/Geräte: der Lehrer, der Computer) ·
 `-ling` (der Frühling, der Lehrling) ·
 `-ig`, `-ich`, `-ismus` (der Honig, der Teppich, der Kapitalismus)
 
-**Always die**
+**Immer die**
 `-ung` (die Zeitung, die Übung) ·
 `-heit`, `-keit` (die Freiheit, die Möglichkeit) ·
 `-schaft` (die Wirtschaft, die Freundschaft) ·
 `-ion`, `-tät`, `-ur`, `-ik` (die Nation, die Universität, die Natur, die Musik) ·
-`-e` (die Blume, die Straße) — **~90 % of -e nouns**, but note der Junge, der Name, das Ende
+`-e` (die Blume, die Straße) — **ca. 90 % der -e-Nomen**, aber: der Junge, der Name, das Ende
 
-**Always das**
+**Immer das**
 `-chen`, `-lein` (das Mädchen) ·
 `-ment`, `-um`, `-ma` (das Dokument, das Zentrum, das Thema) ·
-`-tum` (das Eigentum — but *der* Reichtum, *der* Irrtum) ·
-`Ge-` collective nouns (das Gebäude, das Gemüse, das Gespräch)
+`-tum` (das Eigentum — aber *der* Reichtum, *der* Irrtum) ·
+Sammelnomen (collective nouns) mit `Ge-`: das Gebäude, das Gemüse, das Gespräch
 
 ---
 
-## 4. N-nouns (weak masculine nouns)
+## 4. N-Deklination (schwache Maskulina / weak masculine nouns)
 
-A group of masculine nouns that take **-(e)n in every case except nominative singular**.
+Eine Gruppe maskuliner Nomen, die **in jedem Fall außer dem Nominativ Singular -(e)n**
+bekommen.
 
-| | singular | plural |
+| | Singular | Plural |
 |-----|----------|--------|
 | Nom | der Student | die Studenten |
 | Akk | den Student**en** | die Studenten |
 | Dat | dem Student**en** | den Studenten |
 | Gen | des Student**en** | der Studenten |
 
-Members:
-- Male persons in **-e**: der Junge, der Kunde, der Kollege, der Neffe, der Franzose
-- Foreign words for people, stressed on last syllable: der Student, der Polizist,
-  der Journalist, der Präsident, der Automat (thing, still weak)
-- A short fixed list: der Mensch, der Herr (-n sg. / -en pl.), der Nachbar, der Bauer,
+Mitglieder:
+- männliche Personen auf **-e**: der Junge, der Kunde, der Kollege, der Neffe, der Franzose
+- Fremdwörter für Personen, Betonung auf der letzten Silbe: der Student, der Polizist,
+  der Journalist, der Präsident, der Automat (Sache, trotzdem schwach)
+- eine kurze feste Liste: der Mensch, der Herr (-n Sg. / -en Pl.), der Nachbar, der Bauer,
   der Held, der Bär, der Elefant
 
-**Mixed**: der Name, der Gedanke, der Wille, das Herz — weak endings *plus* genitive **-ns**
-(*des Namens*).
+**Gemischt**: der Name, der Gedanke, der Wille, das Herz — schwache Endungen *plus*
+Genitiv **-ns** (*des Namens*).
 
-Common mistake: ✗ *Ich sehe den Student.* → ✓ *Ich sehe den Studenten.*
-
----
-
-## 5. Plurals — the five patterns
-
-German has no single plural rule. Learn the plural with the noun, but the tendencies:
-
-| Pattern | Typical for | Examples |
-|---------|-------------|----------|
-| **-e** (often + Umlaut) | many masc. | der Tag → die Tage; der Stuhl → die Stühle |
-| **-(e)n** | most fem.; n-nouns | die Frau → die Frauen; die Blume → die Blumen |
-| **-er** (+ Umlaut where possible) | many neut. | das Kind → die Kinder; das Buch → die Bücher |
-| **-s** | foreign words, abbreviations | das Auto → die Autos; die App → die Apps |
-| **∅ / just Umlaut** | masc./neut. in -er, -en, -el | der Lehrer → die Lehrer; der Apfel → die Äpfel |
-
-Feminine nouns almost never take Umlaut in the plural (exceptions: die Hand → die Hände,
-die Stadt → die Städte, die Nacht → die Nächte, die Wurst → die Würste, and a few more).
+Häufiger Fehler: ✗ *Ich sehe den Student.* → ✓ *Ich sehe den Studenten.*
 
 ---
 
-## 6. When to use which article
+## 5. Plural — die fünf Muster
 
-**Definite article** — something specific / already known / unique / generic statements:
+Es gibt keine einzige Pluralregel. Lerne den Plural mit dem Nomen; die Tendenzen:
+
+| Muster | typisch für | Beispiele |
+|--------|-------------|-----------|
+| **-e** (oft + Umlaut) | viele Maskulina | der Tag → die Tage; der Stuhl → die Stühle |
+| **-(e)n** | die meisten Feminina; N-Deklination | die Frau → die Frauen; die Blume → die Blumen |
+| **-er** (+ Umlaut wo möglich) | viele Neutra | das Kind → die Kinder; das Buch → die Bücher |
+| **-s** | Fremdwörter, Abkürzungen | das Auto → die Autos; die App → die Apps |
+| **∅ / nur Umlaut** | Maskulina/Neutra auf -er, -en, -el | der Lehrer → die Lehrer; der Apfel → die Äpfel |
+
+Feminine Nomen bekommen im Plural fast nie einen Umlaut. Ausnahmen: die Hand → die Hände,
+die Stadt → die Städte, die Nacht → die Nächte, die Wurst → die Würste (und wenige mehr).
+
+---
+
+## 6. Wann welcher Artikel
+
+**Bestimmter Artikel** — etwas Bestimmtes / schon Bekanntes / Einmaliges / allgemeine Aussagen:
 - *Die Sonne scheint.* · *Ich nehme den roten Pullover.* · *Der Mensch ist ein Gewohnheitstier.*
 
-**Indefinite article** — first mention, non-specific, "one of many":
+**Unbestimmter Artikel** — erste Erwähnung, unbestimmt, "eines von vielen":
 - *Ich habe eine Frage.* · *Da steht ein Auto.*
 
-**No article** —
-- Plural of an indefinite: *Ich habe Fragen.*
-- Uncountable / general: *Ich trinke Wasser.* · *Er hat Geld.*
-- Professions, nationalities, religions after sein/werden: *Sie ist Ärztin.* · *Er wird Lehrer.*
-- Many fixed prepositional phrases: *nach Hause*, *zu Fuß*, *mit Absicht*, *in Ordnung*
+**Kein Artikel** —
+- Plural eines unbestimmten Nomens: *Ich habe Fragen.*
+- Nicht zählbar / allgemein: *Ich trinke Wasser.* · *Er hat Geld.*
+- Berufe, Nationalitäten, Religionen nach sein/werden: *Sie ist Ärztin.* · *Er wird Lehrer.*
+- viele feste Präpositionalphrasen: *nach Hause*, *zu Fuß*, *mit Absicht*, *in Ordnung*
 
 ---
 
-## Common mistakes
-- Using the natural gender of a diminutive: ✗ *die Mädchen (sg.)* → ✓ **das** Mädchen.
-- Forgetting Dativ-plural **-n**: *mit den Freunden*, *auf den Bildern*.
-- Dropping the n-noun ending in accusative/dative: *für den Kollegen*, *mit dem Studenten*.
-- Adding an article to a profession: ✗ *Ich bin ein Ingenieur.* → ✓ *Ich bin Ingenieur.*
-  (article returns if modified: *Ich bin ein guter Ingenieur.*)
-- Assuming English cognates share gender — they don't (*das Wasser*, *die Butter*, *der Käse*).
+## Häufige Fehler
+- Das natürliche Geschlecht bei Verkleinerungsformen verwenden: ✗ *die Mädchen (Sg.)* → ✓ **das** Mädchen.
+- Das Dativ-Plural-**-n** vergessen: *mit den Freunden*, *auf den Bildern*.
+- Die Endung der N-Deklination im Akkusativ/Dativ weglassen: *für den Kollegen*, *mit dem Studenten*.
+- Einen Artikel bei einem Beruf setzen: ✗ *Ich bin ein Ingenieur.* → ✓ *Ich bin Ingenieur.*
+  (der Artikel kehrt zurück, wenn das Nomen näher bestimmt wird: *Ich bin ein guter Ingenieur.*)
+- Annehmen, dass englische Verwandtwörter (cognates) dasselbe Genus haben — tun sie nicht
+  (*das Wasser*, *die Butter*, *der Käse*).
