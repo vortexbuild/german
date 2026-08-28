@@ -1,28 +1,42 @@
-# Grammatik — Lesereihenfolge
+# Grammatik — Lehrplan (syllabus)
 
-Arbeite diese Dateien von oben nach unten durch. Jede Datei: **Erklärung → Tabelle →
-Beispiele → häufige Fehler**. `[ ]` = noch nicht geschrieben, `[x]` = fertig.
+Arbeite die Themen von oben nach unten durch. Für die meisten genügt der **Lingolia-Link**
+(lesen + Beispiele). Zu einigen Themen gibt es hier eine eigene Notiz (`.md`) mit
+Zusammenfassung, Tabelle und Übungen — dann steht 📄 davor.
 
-## Grundlagen (B1-Wiederholung — schnell lesen, sicheres Beherrschen prüfen)
-- [x] `cases.md` — Nominativ, Akkusativ, Dativ, Genitiv: Funktion jedes Kasus, Artikeltabelle
-- [x] `articles-and-gender.md` — der/die/das, Pluralformen, Genusregeln und -muster
-- [ ] `verbs-present.md` — regelmäßig, mit Vokalwechsel, sein/haben/werden, trennbare Verben
-- [x] `word-order.md` — Verb-Zweit-Regel (V2), TeKaMoLo, Stellung von *nicht*, Nebensätze
+Vollständige Linkliste inkl. anderer Quellen: `../reference/links.md`
 
-## Der B1→B2-Kern (hier liegen die echten Fortschritte)
-- [x] `adjective-endings.md` — die 3 Tabellen + Entscheidungsverfahren + 40 Übungssätze
-- [ ] `perfekt-and-prateritum.md` — beide Vergangenheitsformen, wann welche, Partizipbildung
-- [ ] `modal-verbs.md` — Bedeutungen, Präsens + Vergangenheit, Modalverb + Passiv, subjektiver Gebrauch
-- [ ] `konjunktiv-2.md` — hätte/wäre/würde/könnte…, Gegenwart vs. Vergangenheit, Verwendung
-- [ ] `passiv.md` — Vorgangspassiv vs. Zustandspassiv, Passiv + Modalverb, Alternativen
-- [ ] `relative-clauses.md` — Relativpronomen, mit Präpositionen, wo-/was-
-- [ ] `subordinate-clauses.md` — dass/weil/wenn/ob/damit…, Verb am Ende, zweiteilige Konnektoren
+## Grundlagen (B1-Wiederholung — schnell prüfen)
+| Thema | Ressource |
+|-------|-----------|
+| Kasus (Nom/Akk/Dat/Gen) | 📄 `cases.md` · [Lingolia](https://deutsch.lingolia.com/en/grammar/nouns-and-articles/declension) |
+| Artikel & Genus, Plural | 📄 `articles-and-gender.md` · [Genus](https://deutsch.lingolia.com/en/grammar/nouns-and-articles/articles-noun-markers) · [Plural](https://deutsch.lingolia.com/en/grammar/nouns-and-articles/plural) |
+| Verben im Präsens | [Lingolia](https://deutsch.lingolia.com/en/grammar/tenses/present-tense) · [trennbare Verben](https://deutsch.lingolia.com/en/grammar/verbs/separable-verbs) |
+| Wortstellung (V2, TeKaMoLo, *nicht*) | 📄 `word-order.md` · [Hauptsätze](https://deutsch.lingolia.com/en/grammar/sentence-structure/main-clauses) · [Negation](https://deutsch.lingolia.com/en/grammar/sentence-structure/negation) |
+
+## Der B1→B2-Kern
+| Thema | Ressource |
+|-------|-----------|
+| Adjektivendungen | 📄 `adjective-endings.md` · [Lingolia](https://deutsch.lingolia.com/en/grammar/adjectives/declension) |
+| Perfekt & Präteritum | [Perfekt](https://deutsch.lingolia.com/en/grammar/tenses/present-perfect) · [Präteritum](https://deutsch.lingolia.com/en/grammar/tenses/simple-past) |
+| Modalverben | [Lingolia](https://deutsch.lingolia.com/en/grammar/verbs/modal-verbs) |
+| Konjunktiv II | [Lingolia](https://deutsch.lingolia.com/en/grammar/verbs/subjunctive) |
+| Passiv | [Lingolia](https://deutsch.lingolia.com/en/grammar/verbs/passive) |
+| Relativsätze | [Lingolia](https://deutsch.lingolia.com/en/grammar/sentence-structure/dependent-clauses/relative-clauses) |
+| Nebensätze & Konjunktionen | [Nebensätze](https://deutsch.lingolia.com/en/grammar/sentence-structure/dependent-clauses) · [Konjunktionen](https://deutsch.lingolia.com/en/grammar/sentence-structure/dependent-clauses/conjunctions) |
+| Präpositionen nach Kasus | [Lingolia](https://deutsch.lingolia.com/en/grammar/prepositions) |
 
 ## B2-Feinschliff
-- [ ] `konjunktiv-1.md` — indirekte Rede (reported speech)
-- [ ] `participles-as-adjectives.md` — Partizip I / II attributiv, erweiterte Partizipialgruppen
-- [ ] `nominalization.md` — Verb→Nomen, nominaler Stil (typisch für formelles Deutsch)
-- [ ] `connectors-and-register.md` — deshalb/trotzdem/dennoch/allerdings, formell vs. umgangssprachlich
-- [ ] `particles.md` — doch, mal, ja, halt, eben, schon — was sie eigentlich signalisieren
+| Thema | Ressource |
+|-------|-----------|
+| Konjunktiv I / indirekte Rede | [Konjunktiv](https://deutsch.lingolia.com/en/grammar/verbs/subjunctive) · [indirekte Rede](https://deutsch.lingolia.com/en/grammar/sentence-structure/dependent-clauses/indirect-speech) |
+| Partizipien als Adjektive | [Lingolia](https://deutsch.lingolia.com/en/grammar/verbs/participles) |
+| substantivierte Adjektive / nominaler Stil | [Lingolia](https://deutsch.lingolia.com/en/grammar/nouns/declension/nominalised-adjectives) |
+| Konnektoren & Register | [Konjunktionen](https://deutsch.lingolia.com/en/grammar/sentence-structure/dependent-clauses/conjunctions) |
+| Partikeln (doch, mal, ja, halt) | [DW](https://learngerman.dw.com/en/grammar) (Suche "Modalpartikeln") |
 
-Nachschlagetabellen (Verblisten, Präpositionen nach Kasus, Konnektorenlisten) findest du in `reference/`.
+---
+
+**Wenn eine Lingolia-Seite ein Thema nicht klar genug erklärt** oder du eine
+Zusammenfassung mit Übungen willst — sag Bescheid, dann schreibe ich dazu eine
+eigene Notiz wie `adjective-endings.md`.
