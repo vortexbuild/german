@@ -5,7 +5,7 @@ common mistakes**. `[ ]` = not written yet, `[x]` = done.
 
 ## Foundations (B1 review — read fast, confirm you're solid)
 - [x] `cases.md` — Nominativ, Akkusativ, Dativ, Genitiv: what each does, article table
-- [ ] `articles-and-gender.md` — der/die/das, plural forms, gender patterns & rules
+- [x] `articles-and-gender.md` — der/die/das, plural forms, gender patterns & rules
 - [ ] `verbs-present.md` — regular, stem-changing, sein/haben/werden, separable verbs
 - [ ] `word-order.md` — V2 rule, TeKaMoLo, position of nicht, subordinate clauses
 
