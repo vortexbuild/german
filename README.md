@@ -22,6 +22,7 @@ Start here: [`de/grammatik/README.md`](de/grammatik/README.md) · [`en/grammar/R
 | `vocab/vocab.csv` | Vocabulary: `deutsch,englisch,tags,hinzugefuegt` |
 | `journal/` | Writing practice (German). Copy `_template.md` to `YYYY-MM-DD.md` |
 | `scripts/quiz.py` | Flashcard quiz over `vocab.csv` |
+| `PLAN.md` | B1→B2 grammar checklist — the sequence to work through (no schedule) |
 | `ROADMAP.md` | CEFR levels A1–C1 and what each requires |
 
 ## How to use it
