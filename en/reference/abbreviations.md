@@ -36,11 +36,11 @@ usually said in full.
 Very common in written German, far more so than its English equivalents.
 Three uses:
 
-| Use | Closest English | Example |
-|-----|-----------------|---------|
-| refining what you just said | *or rather* · *or more precisely* | *…ihrer Rolle im Satz **bzw.** abhängig von Verben…* |
-| pairing two lists item by item | *X … and Y respectively* (sometimes just *and* / *or*) | *Anna und Ben → Berlin **bzw.** München* |
-| offering another option | *or* · *and/or* | *per Post **bzw.** E-Mail* |
+| Closest English | Example |
+|-----------------|---------|
+| *or rather* · *or more precisely* | *…ihrer Rolle im Satz **bzw.** abhängig von Verben…* |
+| *X … and Y respectively* (sometimes just *and* / *or*) | *Anna und Ben → Berlin **bzw.** München* |
+| *or* · *and/or* | *per Post **bzw.** E-Mail* |
 
 These are not three separate words but **one** connector: "the correspondingly fitting
 element for the other one." The English column is only *where it usually lands* — pick
