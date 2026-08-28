@@ -1,6 +1,6 @@
 # Error log (Fehlerheft)
 
-> 🇩🇪 Deutsch: [`../../de/grammar/fehler.md`](../../de/grammar/fehler.md)
+> 🇩🇪 Deutsch: [`../../de/grammatik/fehler.md`](../../de/grammatik/fehler.md)
 > Keep your errors in **one** file only (either folder) — don't maintain both.
 
 The most important file you own in this project. Every time you get a correction (from

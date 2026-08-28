@@ -1,8 +1,8 @@
 # External resources (curated links)
 
-> 🇩🇪 Deutsch: [`../../de/reference/links.md`](../../de/reference/links.md)
+> 🇩🇪 Deutsch: [`../../de/referenz/links.md`](../../de/referenz/links.md)
 
-See also: `abkuerzungen.md` — common abbreviations (z. B., bzw., d. h. …).
+See also: `abbreviations.md` — common abbreviations (z. B., bzw., d. h. …).
 
 Rather than writing everything from scratch: proven explanations with examples and free
 exercises. **Lingolia** is the main source (free to read; the extra exercises with an

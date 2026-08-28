@@ -1,6 +1,6 @@
 # Articles and gender
 
-> 🇩🇪 Deutsch: [`../../de/grammar/articles-and-gender.md`](../../de/grammar/articles-and-gender.md)
+> 🇩🇪 Deutsch: [`../../de/grammatik/artikel-und-genus.md`](../../de/grammatik/artikel-und-genus.md)
 
 Every German noun has a grammatical gender: **masculine** (der), **feminine** (die) or
 **neuter** (das). Gender belongs to the *word*, not the thing — learn every noun **with

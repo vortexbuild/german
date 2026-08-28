@@ -1,6 +1,6 @@
 # Adjective endings (Adjektivendungen)
 
-> 🇩🇪 Deutsch: [`../../de/grammar/adjective-endings.md`](../../de/grammar/adjective-endings.md)
+> 🇩🇪 Deutsch: [`../../de/grammatik/adjektivendungen.md`](../../de/grammatik/adjektivendungen.md)
 
 Only **attributive** adjectives take endings (before a noun: *ein **guter** Wein*).
 Predicative adjectives never change: *Der Wein ist **gut**.*

@@ -1,6 +1,6 @@
 # Word order (Wortstellung)
 
-> 🇩🇪 Deutsch: [`../../de/grammar/word-order.md`](../../de/grammar/word-order.md)
+> 🇩🇪 Deutsch: [`../../de/grammatik/wortstellung.md`](../../de/grammatik/wortstellung.md)
 
 German word order is more flexible than English, but the **position of the verb** is
 strictly fixed. That is the key point.

@@ -1,6 +1,6 @@
 # Abbreviations in written German (Abkürzungen)
 
-> 🇩🇪 Deutsch: [`../../de/reference/abkuerzungen.md`](../../de/reference/abkuerzungen.md)
+> 🇩🇪 Deutsch: [`../../de/referenz/abkuerzungen.md`](../../de/referenz/abkuerzungen.md)
 
 These show up constantly in texts, textbooks and on Lingolia. In speech they are
 usually said in full.

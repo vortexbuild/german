@@ -6,21 +6,21 @@ Arbeite die Themen von oben nach unten durch. Für die meisten genügt der **Lin
 (lesen + Beispiele). Zu einigen Themen gibt es hier eine eigene Notiz (`.md`) mit
 Zusammenfassung, Tabelle und Übungen — dann steht 📄 davor.
 
-Vollständige Linkliste inkl. anderer Quellen: `../reference/links.md`
+Vollständige Linkliste inkl. anderer Quellen: `../referenz/links.md`
 Dein eigenes Fehlerheft (error log): `fehler.md` — die wichtigste Datei, täglich pflegen.
 
 ## Grundlagen (B1-Wiederholung — schnell prüfen)
 | Thema | Ressource |
 |-------|-----------|
-| Kasus (Nom/Akk/Dat/Gen) | 📄 `cases.md` · [Lingolia](https://deutsch.lingolia.com/en/grammar/nouns-and-articles/declension) |
-| Artikel & Genus, Plural | 📄 `articles-and-gender.md` · [Genus](https://deutsch.lingolia.com/en/grammar/nouns-and-articles/articles-noun-markers) · [Plural](https://deutsch.lingolia.com/en/grammar/nouns-and-articles/plural) |
+| Kasus (Nom/Akk/Dat/Gen) | 📄 `kasus.md` · [Lingolia](https://deutsch.lingolia.com/en/grammar/nouns-and-articles/declension) |
+| Artikel & Genus, Plural | 📄 `artikel-und-genus.md` · [Genus](https://deutsch.lingolia.com/en/grammar/nouns-and-articles/articles-noun-markers) · [Plural](https://deutsch.lingolia.com/en/grammar/nouns-and-articles/plural) |
 | Verben im Präsens | [Lingolia](https://deutsch.lingolia.com/en/grammar/tenses/present-tense) · [trennbare Verben](https://deutsch.lingolia.com/en/grammar/verbs/separable-verbs) |
-| Wortstellung (V2, TeKaMoLo, *nicht*) | 📄 `word-order.md` · [Hauptsätze](https://deutsch.lingolia.com/en/grammar/sentence-structure/main-clauses) · [Negation](https://deutsch.lingolia.com/en/grammar/sentence-structure/negation) |
+| Wortstellung (V2, TeKaMoLo, *nicht*) | 📄 `wortstellung.md` · [Hauptsätze](https://deutsch.lingolia.com/en/grammar/sentence-structure/main-clauses) · [Negation](https://deutsch.lingolia.com/en/grammar/sentence-structure/negation) |
 
 ## Der B1→B2-Kern
 | Thema | Ressource |
 |-------|-----------|
-| Adjektivendungen | 📄 `adjective-endings.md` · [Lingolia](https://deutsch.lingolia.com/en/grammar/adjectives/declension) |
+| Adjektivendungen | 📄 `adjektivendungen.md` · [Lingolia](https://deutsch.lingolia.com/en/grammar/adjectives/declension) |
 | Perfekt & Präteritum | [Perfekt](https://deutsch.lingolia.com/en/grammar/tenses/present-perfect) · [Präteritum](https://deutsch.lingolia.com/en/grammar/tenses/simple-past) |
 | Modalverben | [Lingolia](https://deutsch.lingolia.com/en/grammar/verbs/modal-verbs) |
 | Konjunktiv II | [Lingolia](https://deutsch.lingolia.com/en/grammar/verbs/subjunctive) |
@@ -42,4 +42,4 @@ Dein eigenes Fehlerheft (error log): `fehler.md` — die wichtigste Datei, tägl
 
 **Wenn eine Lingolia-Seite ein Thema nicht klar genug erklärt** oder du eine
 Zusammenfassung mit Übungen willst — sag Bescheid, dann schreibe ich dazu eine
-eigene Notiz wie `adjective-endings.md`.
+eigene Notiz wie `adjektivendungen.md`.

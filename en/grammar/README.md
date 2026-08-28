@@ -1,13 +1,13 @@
 # Grammar — syllabus (Lehrplan)
 
-> 🇩🇪 Deutsch: [`../../de/grammar/README.md`](../../de/grammar/README.md)
+> 🇩🇪 Deutsch: [`../../de/grammatik/README.md`](../../de/grammatik/README.md)
 
 Work through the topics top to bottom. For most of them the **Lingolia link** is enough
 (read + examples). Some topics also have a dedicated note (`.md`) here with a summary,
 table and exercises — those are marked 📄.
 
 Full link list incl. other sources: `../reference/links.md`
-Your own error log: `fehler.md` — the most important file, tend it daily.
+Your own error log: `errors.md` — the most important file, tend it daily.
 
 ## Foundations (B1 review — check quickly)
 | Topic | Resource |

@@ -10,10 +10,10 @@ Every note exists in both languages, cross-linked at the top of each file.
 
 | | |
 |---|---|
-| [`de/`](de/) | German version — `de/grammar/`, `de/reference/` |
+| [`de/`](de/) | German version — `de/grammatik/`, `de/referenz/` |
 | [`en/`](en/) | English version — `en/grammar/`, `en/reference/` |
 
-Start here: [`de/grammar/README.md`](de/grammar/README.md) · [`en/grammar/README.md`](en/grammar/README.md)
+Start here: [`de/grammatik/README.md`](de/grammatik/README.md) · [`en/grammar/README.md`](en/grammar/README.md)
 
 ## Language-neutral (top level)
 
@@ -30,7 +30,7 @@ Read `grammar/` top to bottom in the given order (in whichever language tree you
 Each file stands alone: explanation → table → examples. Use `reference/` for lookups.
 Add new words to `vocab/vocab.csv`.
 
-Your error log — `de/grammar/fehler.md` (or the `en/` copy) — is the highest-value file.
+Your error log — `de/grammatik/fehler.md` (or the `en/` copy) — is the highest-value file.
 Keep it in **one** language only; don't maintain both.
 
 ---
@@ -44,4 +44,4 @@ optional; das Nachschlagewerk ist der Kern.
 Jede Notiz gibt es in beiden Sprachen (`de/` und `en/`), oben in jeder Datei verlinkt.
 Sprachneutral bleiben oben: `vocab/`, `journal/`, `scripts/`, `ROADMAP.md`.
 
-Einstieg: [`de/grammar/README.md`](de/grammar/README.md)
+Einstieg: [`de/grammatik/README.md`](de/grammatik/README.md)

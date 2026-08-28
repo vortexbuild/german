@@ -1,6 +1,6 @@
 # The four cases (Kasus)
 
-> 🇩🇪 Deutsch: [`../../de/grammar/cases.md`](../../de/grammar/cases.md)
+> 🇩🇪 Deutsch: [`../../de/grammatik/kasus.md`](../../de/grammatik/kasus.md)
 
 German marks a noun's role in the sentence with case. This mostly changes the article
 (and sometimes the noun itself).
