@@ -11,14 +11,16 @@ Finite and tickable, like `PLAN.md`.
 1. `python3 scripts/import_unit.py NN` — pulls every word of unit NN into `vocab.csv`
    (status `neu`, tagged `NN`). The `.md` file itself stays untouched — you read it.
 2. Read `vocab/themen/NN-*.md` — the words + example sentences, aloud.
-3. In `vocab/vocab.csv`, for any word you already know cold, change its `status` to
-   `bekannt` (it will never be quizzed).
-4. `python3 scripts/quiz.py --tag NN` — repeat over several sittings. Each word:
-   `neu → lernen → gelernt` after 3 correct in a row; a wrong answer resets its streak.
+3. Optional: in `vocab.csv`, set `status` to `bekannt` for any word you already know
+   cold, to skip it entirely.
+4. `python3 scripts/quiz.py --tag NN` — repeat over several sittings. Each word climbs:
+   `neu → lernen → gelernt` (3 right in a row) `→ bekannt` (5 right in total).
+   `bekannt` words drop out of the quiz for good; a wrong answer resets the streak.
 5. `python3 scripts/quiz.py --tag NN --status` — when it shows `✓` (nothing left in
    `neu`/`lernen`), tick the unit below.
 
 No schedule. One unit whenever you sit down. `--status` (no `--tag`) shows all units.
+`--all` also re-tests `gelernt` words; nothing re-tests `bekannt`.
 
 ## Units
 
@@ -57,9 +59,11 @@ Endlich und abhakbar, wie `PLAN.md`.
 
 **Pro Einheit:** (1) `python3 scripts/import_unit.py NN` — übernimmt alle Wörter der
 Einheit nach `vocab.csv` (Status `neu`). (2) `vocab/themen/NN-*.md` lesen, Beispielsätze
-laut. (3) In `vocab.csv` bei Wörtern, die du schon kannst, `status` auf `bekannt`
-setzen. (4) `python3 scripts/quiz.py --tag NN` über mehrere Sitzungen —
-`neu → lernen → gelernt` nach 3× richtig in Folge. (5) Wenn
+laut. (3) Optional: in `vocab.csv` bei Wörtern, die du schon kannst, `status` auf
+`bekannt` setzen. (4) `python3 scripts/quiz.py --tag NN` über mehrere Sitzungen —
+`neu → lernen → gelernt` (3× richtig in Folge) `→ bekannt` (5× richtig insgesamt).
+`bekannt` fällt endgültig aus dem Quiz. (5) Wenn
 `python3 scripts/quiz.py --tag NN --status` ein `✓` zeigt: Einheit oben abhaken.
 
 Kein Zeitplan. Eine Einheit, wenn du dich hinsetzt.
+`--all` wiederholt auch `gelernt`-Wörter; `bekannt` wird nie wiederholt.

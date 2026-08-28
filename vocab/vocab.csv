@@ -1,68 +1,68 @@
-deutsch,englisch,tags,status,streak,hinzugefuegt
-"die Bewerbung, -en",job application,01,neu,0,2026-08-28
-"das Vorstellungsgespräch, -e",job interview,01,neu,0,2026-08-28
-"der Lebenslauf, ¨-e","CV, résumé",01,neu,0,2026-08-28
-"die Stelle, -n","position, job",01,neu,0,2026-08-28
-"die Stellenanzeige, -n",job advert,01,neu,0,2026-08-28
-"der Arbeitgeber, -",employer,01,neu,0,2026-08-28
-"der Arbeitnehmer, -",employee,01,neu,0,2026-08-28
-"die Belegschaft, -en","workforce, staff",01,neu,0,2026-08-28
-"die Führungskraft, ¨-e","manager, executive",01,neu,0,2026-08-28
-"der Kollege, -n / die Kollegin, -nen",colleague,01,neu,0,2026-08-28
-"der Vorgesetzte, -n","superior, boss",01,neu,0,2026-08-28
-"die Abteilung, -en",department,01,neu,0,2026-08-28
-"der Betrieb, -e","company, plant",01,neu,0,2026-08-28
-"das Unternehmen, -","enterprise, firm",01,neu,0,2026-08-28
-"die Branche, -n","industry, sector",01,neu,0,2026-08-28
-"der Arbeitsplatz, ¨-e",workplace; job,01,neu,0,2026-08-28
-"die Arbeitszeit, -en",working hours,01,neu,0,2026-08-28
-"die Überstunde, -n",overtime hour,01,neu,0,2026-08-28
-"die Schicht, -en",shift,01,neu,0,2026-08-28
-"der Feierabend, -e",end of the working day,01,neu,0,2026-08-28
-der Urlaub (nur Sg.),"holiday, leave",01,neu,0,2026-08-28
-"die Kündigung, -en","notice, dismissal",01,neu,0,2026-08-28
-"der Vertrag, ¨-e",contract,01,neu,0,2026-08-28
-"das Gehalt, ¨-er",salary,01,neu,0,2026-08-28
-"der Lohn, ¨-e","wage, pay",01,neu,0,2026-08-28
-"die Gewerkschaft, -en",trade union,01,neu,0,2026-08-28
-"der Streik, -s",strike,01,neu,0,2026-08-28
-"die Fortbildung, -en",further training,01,neu,0,2026-08-28
-"die Probezeit, -en",probationary period,01,neu,0,2026-08-28
-die Selbstständigkeit (nur Sg.),self-employment,01,neu,0,2026-08-28
-"die Karriere, -n",career,01,neu,0,2026-08-28
-"die Aufgabe, -n",task,01,neu,0,2026-08-28
-"die Zuständigkeit, -en","responsibility, remit",01,neu,0,2026-08-28
-"die Frist, -en",deadline,01,neu,0,2026-08-28
-"der Termin, -e","appointment, deadline",01,neu,0,2026-08-28
-"die Besprechung, -en",meeting,01,neu,0,2026-08-28
-das Homeoffice (nur Sg.),working from home,01,neu,0,2026-08-28
-die Arbeitslosigkeit (nur Sg.),unemployment,01,neu,0,2026-08-28
-der Ruhestand (nur Sg.),retirement,01,neu,0,2026-08-28
-"die Rente, -n",pension,01,neu,0,2026-08-28
-sich bewerben (um),to apply (for),01,neu,0,2026-08-28
-einstellen,to hire,01,neu,0,2026-08-28
-entlassen,"to lay off, dismiss",01,neu,0,2026-08-28
-kündigen,to quit; to give notice,01,neu,0,2026-08-28
-befördern,to promote,01,neu,0,2026-08-28
-verdienen,to earn,01,neu,0,2026-08-28
-leiten,"to lead, manage",01,neu,0,2026-08-28
-betreuen,"to look after, support",01,neu,0,2026-08-28
-erledigen,"to get done, handle",01,neu,0,2026-08-28
-einreichen,"to submit, hand in",01,neu,0,2026-08-28
-verhandeln (über),to negotiate (about),01,neu,0,2026-08-28
-sich qualifizieren (für),to qualify (for),01,neu,0,2026-08-28
-einarbeiten,"to train in, get up to speed",01,neu,0,2026-08-28
-pendeln,to commute,01,neu,0,2026-08-28
-scheitern (an),to fail (at),01,neu,0,2026-08-28
-befristet ↔ unbefristet,fixed-term ↔ permanent,01,neu,0,2026-08-28
-selbstständig,self-employed; independent,01,neu,0,2026-08-28
-berufstätig,"in employment, working",01,neu,0,2026-08-28
-zuständig (für),responsible (for),01,neu,0,2026-08-28
-überfordert ↔ unterfordert,overwhelmed ↔ not challenged,01,neu,0,2026-08-28
-ehrgeizig,ambitious,01,neu,0,2026-08-28
-belastbar,"resilient, able to work under pressure",01,neu,0,2026-08-28
-eine Stelle antreten,to start a job,01,neu,0,2026-08-28
-sich beruflich verändern,to make a career change,01,neu,0,2026-08-28
-in Rente / in den Ruhestand gehen,to retire,01,neu,0,2026-08-28
-Karriere machen,to have a successful career,01,neu,0,2026-08-28
-unter Druck stehen,to be under pressure,01,neu,0,2026-08-28
+deutsch,englisch,tags,status,streak,richtig,hinzugefuegt
+"die Bewerbung, -en",job application,01,neu,0,,2026-08-28
+"das Vorstellungsgespräch, -e",job interview,01,neu,0,,2026-08-28
+"der Lebenslauf, ¨-e","CV, résumé",01,neu,0,,2026-08-28
+"die Stelle, -n","position, job",01,neu,0,,2026-08-28
+"die Stellenanzeige, -n",job advert,01,neu,0,,2026-08-28
+"der Arbeitgeber, -",employer,01,neu,0,,2026-08-28
+"der Arbeitnehmer, -",employee,01,neu,0,,2026-08-28
+"die Belegschaft, -en","workforce, staff",01,neu,0,,2026-08-28
+"die Führungskraft, ¨-e","manager, executive",01,neu,0,,2026-08-28
+"der Kollege, -n / die Kollegin, -nen",colleague,01,neu,0,,2026-08-28
+"der Vorgesetzte, -n","superior, boss",01,neu,0,,2026-08-28
+"die Abteilung, -en",department,01,neu,0,,2026-08-28
+"der Betrieb, -e","company, plant",01,neu,0,,2026-08-28
+"das Unternehmen, -","enterprise, firm",01,neu,0,,2026-08-28
+"die Branche, -n","industry, sector",01,neu,0,,2026-08-28
+"der Arbeitsplatz, ¨-e",workplace; job,01,neu,0,,2026-08-28
+"die Arbeitszeit, -en",working hours,01,neu,0,,2026-08-28
+"die Überstunde, -n",overtime hour,01,neu,0,,2026-08-28
+"die Schicht, -en",shift,01,neu,0,,2026-08-28
+"der Feierabend, -e",end of the working day,01,neu,0,,2026-08-28
+der Urlaub (nur Sg.),"holiday, leave",01,neu,0,,2026-08-28
+"die Kündigung, -en","notice, dismissal",01,neu,0,,2026-08-28
+"der Vertrag, ¨-e",contract,01,neu,0,,2026-08-28
+"das Gehalt, ¨-er",salary,01,neu,0,,2026-08-28
+"der Lohn, ¨-e","wage, pay",01,neu,0,,2026-08-28
+"die Gewerkschaft, -en",trade union,01,neu,0,,2026-08-28
+"der Streik, -s",strike,01,neu,0,,2026-08-28
+"die Fortbildung, -en",further training,01,neu,0,,2026-08-28
+"die Probezeit, -en",probationary period,01,neu,0,,2026-08-28
+die Selbstständigkeit (nur Sg.),self-employment,01,neu,0,,2026-08-28
+"die Karriere, -n",career,01,neu,0,,2026-08-28
+"die Aufgabe, -n",task,01,neu,0,,2026-08-28
+"die Zuständigkeit, -en","responsibility, remit",01,neu,0,,2026-08-28
+"die Frist, -en",deadline,01,neu,0,,2026-08-28
+"der Termin, -e","appointment, deadline",01,neu,0,,2026-08-28
+"die Besprechung, -en",meeting,01,neu,0,,2026-08-28
+das Homeoffice (nur Sg.),working from home,01,neu,0,,2026-08-28
+die Arbeitslosigkeit (nur Sg.),unemployment,01,neu,0,,2026-08-28
+der Ruhestand (nur Sg.),retirement,01,neu,0,,2026-08-28
+"die Rente, -n",pension,01,neu,0,,2026-08-28
+sich bewerben (um),to apply (for),01,neu,0,,2026-08-28
+einstellen,to hire,01,neu,0,,2026-08-28
+entlassen,"to lay off, dismiss",01,neu,0,,2026-08-28
+kündigen,to quit; to give notice,01,neu,0,,2026-08-28
+befördern,to promote,01,neu,0,,2026-08-28
+verdienen,to earn,01,neu,0,,2026-08-28
+leiten,"to lead, manage",01,neu,0,,2026-08-28
+betreuen,"to look after, support",01,neu,0,,2026-08-28
+erledigen,"to get done, handle",01,neu,0,,2026-08-28
+einreichen,"to submit, hand in",01,neu,0,,2026-08-28
+verhandeln (über),to negotiate (about),01,neu,0,,2026-08-28
+sich qualifizieren (für),to qualify (for),01,neu,0,,2026-08-28
+einarbeiten,"to train in, get up to speed",01,neu,0,,2026-08-28
+pendeln,to commute,01,neu,0,,2026-08-28
+scheitern (an),to fail (at),01,neu,0,,2026-08-28
+befristet ↔ unbefristet,fixed-term ↔ permanent,01,neu,0,,2026-08-28
+selbstständig,self-employed; independent,01,neu,0,,2026-08-28
+berufstätig,"in employment, working",01,neu,0,,2026-08-28
+zuständig (für),responsible (for),01,neu,0,,2026-08-28
+überfordert ↔ unterfordert,overwhelmed ↔ not challenged,01,neu,0,,2026-08-28
+ehrgeizig,ambitious,01,neu,0,,2026-08-28
+belastbar,"resilient, able to work under pressure",01,neu,0,,2026-08-28
+eine Stelle antreten,to start a job,01,neu,0,,2026-08-28
+sich beruflich verändern,to make a career change,01,neu,0,,2026-08-28
+in Rente / in den Ruhestand gehen,to retire,01,neu,0,,2026-08-28
+Karriere machen,to have a successful career,01,neu,0,,2026-08-28
+unter Druck stehen,to be under pressure,01,neu,0,,2026-08-28

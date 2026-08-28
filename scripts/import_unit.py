@@ -16,7 +16,7 @@ import sys
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 VOCAB = ROOT / "vocab" / "vocab.csv"
 THEMEN = ROOT / "vocab" / "themen"
-FIELDS = ["deutsch", "englisch", "tags", "status", "streak", "hinzugefuegt"]
+FIELDS = ["deutsch", "englisch", "tags", "status", "streak", "richtig", "hinzugefuegt"]
 
 
 def parse_tables(md_text):

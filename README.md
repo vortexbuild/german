@@ -23,7 +23,7 @@ Start here: [`de/grammatik/README.md`](de/grammatik/README.md) · [`en/grammar/R
 | `VOCAB.md` | B1→B2 vocabulary checklist — 20 thematic units + the daily loop |
 | `ROADMAP.md` | CEFR levels A1–C1 and what each requires |
 | `vocab/themen/` | The 20 thematic word lists (read these) |
-| `vocab/vocab.csv` | Generated word store with progress: `deutsch,englisch,tags,status,streak,hinzugefuegt` |
+| `vocab/vocab.csv` | Generated word store with progress: `deutsch,englisch,tags,status,streak,richtig,hinzugefuegt` |
 | `scripts/import_unit.py` | `import_unit.py NN` → pulls unit NN's words into `vocab.csv` |
 | `scripts/quiz.py` | Stateful flashcard quiz; `--tag NN`, `--status`, `--reverse`, `--all` |
 | `journal/` | Writing practice (German). Copy `_template.md` to `YYYY-MM-DD.md` |
